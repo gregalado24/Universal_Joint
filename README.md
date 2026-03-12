@@ -1,7 +1,7 @@
 # Universal Joint Kinematic Analysis
 
 <p align="center">
-  <img src="https://github.com/Jose-Rodriguez-22/Slider-Crank/blob/main/slider_crank%20motion.gif" width="600"/>
+  <img src="slider_crank motion.gif" width="600"/>
 </p>
 
 ## Overview
