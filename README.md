@@ -92,11 +92,11 @@ This behavior is a fundamental limitation of single universal joints.
 
 α = 10°
 
-![Velocity10](plots/velocity_10deg.png)
+![Velocity10](Plots/velocity_10deg.png)
 
 α = 30°
 
-![Velocity30](plots/velocity_30deg.png)
+![Velocity30](Plots/velocity_30deg.png)
 
 ---
 
@@ -104,11 +104,11 @@ This behavior is a fundamental limitation of single universal joints.
 
 α = 10°
 
-![Accel10](plots/acceleration_10deg.png)
+![Accel10](Plots/acceleration_10deg.png)
 
 α = 30°
 
-![Accel30](plots/acceleration_30deg.png)
+![Accel30](Plots/acceleration_30deg.png)
 
 ---
 
